@@ -1,0 +1,14 @@
+---
+date_added: 2023-12-14
+title: Sparkfun THING PLUS ESP32-C6
+model: DEV-22925
+category: diy
+type: Development Board
+standard: global
+image: /assets/device_images/Sparkfun-THING-PLUS-ESP32-C6.webp
+templatec6: ' {"NAME":"ESP32-C6-DevKitC","GPIO":[1,1,1,1,1,1,1,1,1376,32,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0],"FLAG":0,"BASE":1}' 
+mlink:
+link: https://www.sparkfun.com/products/22925
+---
+
+![Pinout](/assets/device_images/Sparkfun-THING-PLUS-ESP32-C6_pinout.webp)
